@@ -1,0 +1,17 @@
+a[href ^='https://github.com'] { 
+  padding-right: 16px;
+  background: transparent url(../img/GitHub-Mark-small.png) no-repeat center right;
+  margin-right: 2px;
+}
+
+small a[href ^='https://github.com'] {
+  background: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+a[href^='#']::after {
+  content: '↑';
+  padding: 0 0 2px 2px;
+  font-size: 10px;
+}

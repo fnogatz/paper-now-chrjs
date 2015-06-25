@@ -1,0 +1,17 @@
+title: "CHR.js - A CHR Transpiler for JavaScript"
+date: 2015-06-22T12:00:00Z
+github: fnogatz/paper-now-chrjs
+
+authors:
+  - &falco-nogatz
+    id: "falco-nogatz"
+    name: "Falco Nogatz"
+    email: "falco.nogatz@uni-ulm.de"
+
+affiliations:
+  - name: "Ulm University"
+    department: "Faculty of Engineering and Computer Science, Institute of Software Engineering and Compiler Construction"
+    location: "89069 Ulm, Germany"
+    url: http://www.uni-ulm.de/in/pm
+    members:
+      - *falco-nogatz
