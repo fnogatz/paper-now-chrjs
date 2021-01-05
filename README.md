@@ -6,4 +6,4 @@
 
 ## Paper Now Template
 
-This project report is based on [Paper Now](https://github.com/PeerJ/paper-now). The original template is released under the MIT licence.
+This project report is based on [Paper Now](https://github.com/PeerJ/paper-now). The original template is released under the MIT License.
