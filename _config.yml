@@ -3,7 +3,6 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'serve.sh', 'article.png', 'LI
 baseurl: /paper-now-chrjs
 imports:
     - https://onecodex.github.io/research-article/components/research-article/research-article.html
-theme: https://onecodex.github.io/paper-themes/paper-now/
 collections:
     figures:
         output: true
